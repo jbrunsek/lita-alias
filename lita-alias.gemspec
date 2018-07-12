@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
   spec.name          = 'lita-alias'
-  spec.version       = '0.0.1'
-  spec.authors       = ['Alex Soto']
+  spec.version       = '0.0.2'
+  spec.authors       = ['Alex Soto', 'Jeff Brunsek']
   spec.email         = ['apsoto@gmail.com']
   spec.description   = 'A Lita Chatbot plugin to alias commands.'
   spec.summary       = 'A Lita Chatbot plugin to alias commands.'
-  spec.homepage      = 'https://github.com/apsoto/lita-alias'
+  spec.homepage      = 'https://github.com/jbrunsek/lita-alias'
   spec.license       = 'MIT'
   spec.metadata      = { 'lita_plugin_type' => 'handler' }
 
